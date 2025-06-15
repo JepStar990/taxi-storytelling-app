@@ -1,0 +1,33 @@
+# General
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Backend
+/backend/target/
+.backend/.mvn/
+*.bak
+psql-details.txt
+
+# Frontend
+/frontend/taxi-storytelling-app/node_modules/
+frontend/taxi-storytelling-app/build/
+frontend/taxi-storytelling-app/.env
+
+# Data
+/data/*.parquet
+
+# IDE
+.idea/
+*.iml
+
+# OS-specific files
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+*.jar.original
