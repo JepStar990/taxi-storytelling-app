@@ -1,6 +1,4 @@
-creative project ideas centered around the NYC Taxi dataset:
-
-1. Taxi Storytelling App
+Taxi Storytelling App
 Description: Create an app that generates narratives based on taxi trips, such as the journey from a pickup to a drop-off, including interesting facts about locations along the route.
 Tools: Java for backend processing and natural language generation libraries for storytelling.
 
