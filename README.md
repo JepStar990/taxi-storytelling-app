@@ -43,17 +43,17 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/JepStar990/taxi-storytelling-app.git
 
 2. Navigate to the project directory
-
-cd taxi-storytelling-app
+    ```bash
+    cd taxi-storytelling-app
 
 
 3. Install dependencies
-
-npm install
+    ```bash
+    npm install
 
 OR if using Flutter/Dart
-
-flutter pub get
+    ```bash
+    flutter pub get
 
 
 
@@ -63,12 +63,12 @@ flutter pub get
 Running the App
 
 To start the development server:
-
-npm start
+    ```bash
+    npm start
 
 OR for mobile development
-
-flutter run
+    ```bash
+    flutter run
 
 
 ---
@@ -84,13 +84,10 @@ Maps API: Google Maps API / Leaflet
 Backend: Node.js / Firebase
 
 
-(Update as the project evolves.)
-
-
 ---
 
 📂 Project Structure
-
+```bash
 taxi-storytelling-app/
 ├── src/                # Source code
 │   ├── assets/         # Images, fonts, and story data
