@@ -60,7 +60,7 @@ OR if using Flutter/Dart
 
 ---
 
-Running the App
+### Running the App
 
 To start the development server:
     ```bash
@@ -73,7 +73,7 @@ OR for mobile development
 
 ---
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 
 Frontend: React / Flutter / Vue
 
@@ -86,7 +86,7 @@ Backend: Node.js / Firebase
 
 ---
 
-📂 Project Structure
+### 📂 Project Structure
 ```bash
 taxi-storytelling-app/
 ├── src/                # Source code
@@ -96,11 +96,11 @@ taxi-storytelling-app/
 │   └── services/       # API and Map service logic
 ├── tests/              # Unit and integration tests
 └── README.md
-
+'''
 
 ---
 
-🤝 Contributing
+### 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -108,18 +108,18 @@ Contributions are welcome! Please follow these steps:
 
 
 2. Create your Feature Branch
-
-git checkout -b feature/AmazingFeature
+    ```bash
+    git checkout -b feature/AmazingFeature
 
 
 3. Commit your Changes
-
-git commit -m 'Add some AmazingFeature'
+    ```bash
+    git commit -m 'Add some AmazingFeature'
 
 
 4. Push to the Branch
-
-git push origin feature/AmazingFeature
+    ```bash
+    git push origin feature/AmazingFeature
 
 
 5. Open a Pull Request
@@ -127,7 +127,7 @@ git push origin feature/AmazingFeature
 
 ---
 
-📄 License
+### 📄 License
 
 Distributed under the MIT License.
 See LICENSE for more information.
@@ -135,7 +135,7 @@ See LICENSE for more information.
 
 ---
 
-📧 Contact
+### 📧 Contact
 
 Project Maintainer: JepStar990
 Project Link: https://github.com/JepStar990/taxi-storytelling-app
