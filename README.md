@@ -1,4 +1,3 @@
----
 
 # 🚕 Taxi Storytelling App
 
@@ -62,7 +61,7 @@ OR if using Flutter/Dart
 
 ### Running the App
 
-To start the development server:
+To start the development server
     ```bash
     npm start
 
@@ -87,16 +86,15 @@ Backend: Node.js / Firebase
 ---
 
 ### 📂 Project Structure
-```bash
-taxi-storytelling-app/
-├── src/                # Source code
-│   ├── assets/         # Images, fonts, and story data
-│   ├── components/     # Reusable UI components
-│   ├── screens/        # Main application screens (Map, Chat, Profile)
-│   └── services/       # API and Map service logic
-├── tests/              # Unit and integration tests
-└── README.md
-'''
+    ```bash
+    taxi-storytelling-app/
+    ├── src/                # Source code
+    │   ├── assets/         # Images, fonts, and story data
+    │   ├── components/     # Reusable UI components
+    │   ├── screens/        # Main application screens (Map, Chat, Profile)
+    │   └── services/       # API and Map service logic
+    ├── tests/              # Unit and integration tests
+    └── README.md
 
 ---
 
