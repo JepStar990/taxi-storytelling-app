@@ -1,8 +1,3 @@
-Below is the README.md exactly containing your provided content, cleanly formatted in proper Markdown and ready to drop straight into the repository.
-
-You don’t need to change anything unless you want to refine the tech stack names later.
-
-
 ---
 
 # 🚕 Taxi Storytelling App
